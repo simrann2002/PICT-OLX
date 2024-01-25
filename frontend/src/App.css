@@ -1,0 +1,16 @@
+.ProName{
+    width: 20px;
+
+}
+
+.custom-dropdown{
+    height: 300px;
+    overflow-y: auto;
+}
+body{
+    background-color: rgb(215, 212, 212);
+}
+.CustomItemBody{
+    background-color: rgb(215, 212, 212);
+    border: 2px solid black;
+}
